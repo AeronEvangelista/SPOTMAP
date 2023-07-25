@@ -17,7 +17,7 @@ Engineering University.
 Mission: Our mission aims to be part of the advancement of our school as tech-savvy students who are leaders of sustainable development of innovations.
 
 Future Plans: If given the chance to update and implement the current program, our objective is to make our interface more functionable by adding more convenient features such as the search engine. More animation and visually attractive design will also help the program be more user-friendly especially to visitors. Not only that, we plan to make it more accessible not only in a single school monitor, but also into one of the most innovative technologies, our phones.
-
+---
 Breaking Down of Codes
 ---
 [Mouse hovering (maps and buttons)]
