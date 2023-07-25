@@ -61,11 +61,11 @@ desktop using the formula: w * x/w, h* y/h (Automatic Coordinates)
 - If (!image.loadfromfile(“”)) cout << “image cannot be found”<< endl;
 - Cout and endl for readable debugs
 ---
-  Platforms Used	IDE:
+  Platforms Used: 
 ---
--	Visual Studio, and Visual Code Library:
--	(SFML) Simple and Fast Multimedia Library Design:
--	Pixilart and Canva
+-	IDE: Visual Studio, and Visual Code 
+-	Library: (SFML) Simple and Fast Multimedia Library 
+-	Design: Pixilart and Canva
 ---
 FLOWCHART: [SpotMap_Flowchart](https://github.com/AeronEvangelista/SPOTMAP/blob/main/FLOWCHART.pdf)
 
