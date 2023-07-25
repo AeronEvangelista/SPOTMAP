@@ -66,8 +66,7 @@ desktop using the formula: w * x/w, h* y/h (Automatic Coordinates)
 -	Pixilart, Canva
 -	
 ---
-FLOWCHART:
+FLOWCHART: [Image](https://github.com/AeronEvangelista/SPOTMAP/blob/main/FLOWCHART.pdf)
 ---
-[Link Text](https://github.com/AeronEvangelista/SPOTMAP/blob/main/FLOWCHART.pdf)
   Acknowledgement: A special appreciation to Ma’am Lanie Palad, our course facilitator and Engr. Oliver S. Dimalig, the Head of PFMO Alangilan, for providing access to essential information - the floor plans.
 
