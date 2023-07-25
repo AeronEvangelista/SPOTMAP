@@ -67,6 +67,7 @@ desktop using the formula: w * x/w, h* y/h (Automatic Coordinates)
 -	
 ---
 FLOWCHART: [SpotMap_Flowchart](https://github.com/AeronEvangelista/SPOTMAP/blob/main/FLOWCHART.pdf)
+
 ---
-  #####Acknowledgement: A special appreciation to Ma’am Lanie Palad, our course facilitator and Engr. Oliver S. Dimalig, the Head of PFMO Alangilan, for providing access to essential information - the floor plans.
+Acknowledgement: A special appreciation to Ma’am Lanie Palad, our course facilitator and Engr. Oliver S. Dimalig, the Head of PFMO Alangilan, for providing access to essential information - the floor plans.
 ---
