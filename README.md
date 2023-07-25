@@ -1,4 +1,4 @@
-# SPOTMAP
+# :school:SPOTMAP:world_map:
 
 ### Prepared By:
 ### _Abril, Danielle Ziac R._
