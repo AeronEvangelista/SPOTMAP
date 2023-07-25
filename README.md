@@ -20,7 +20,7 @@ Future Plans: If given the chance to update and implement the current program, o
 
 Breaking Down of Codes
 ---
-*[Mouse hovering (maps and buttons)]
+[Mouse hovering (maps and buttons)]
 ---
 - Get position of the mouse in the window
 - Get the coordinates of the parameter
@@ -66,5 +66,8 @@ desktop using the formula: w * x/w, h* y/h (Automatic Coordinates)
 -	Pixilart, Canva
 -	
 ---
+FLOWCHART:
+---
+[Link Text](pdf_url)
   Acknowledgement: A special appreciation to Ma’am Lanie Palad, our course facilitator and Engr. Oliver S. Dimalig, the Head of PFMO Alangilan, for providing access to essential information - the floor plans.
 
