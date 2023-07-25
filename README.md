@@ -40,12 +40,12 @@ desktop using the formula: w * x/w, h* y/h (Automatic Coordinates)
 - When position == min position, set bool to true
 - The bool expression serves as the left & right direction of the movement
 ---
-*[Calling functions (buttons and windows)]
+[Calling functions (buttons and windows)]
 ---
 - Every void renders a window and has a game loop
 - When another window is called, the previous window is closed
 ---
-*[Page loops (floorplan pages)]
+[Page loops (floorplan pages)]
 ---
 - Designated certain image(set string) for each value
 - When right button is pressed page ++;
@@ -69,6 +69,6 @@ desktop using the formula: w * x/w, h* y/h (Automatic Coordinates)
 FLOWCHART: [SpotMap_Flowchart](https://github.com/AeronEvangelista/SPOTMAP/blob/main/FLOWCHART.pdf)
 
 ---
-Acknowledgement: A special appreciation to Ma’am Lanie Palad, our course facilitator and Engr. Oliver S. Dimalig, the Head of PFMO Alangilan, for providing access to essential information - the floor plans.
+#### Acknowledgement: A special appreciation to Ma’am Lanie Palad, our course facilitator and Engr. Oliver S. Dimalig, the Head of PFMO Alangilan, for providing access to essential information - the floor plans.
 ---
 
