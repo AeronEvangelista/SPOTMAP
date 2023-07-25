@@ -1,9 +1,9 @@
 # SPOTMAP
 
-## Prepared By:
-## _Abril, Danielle Ziac R._
-## _Evangelista, Aeron M._
-## _Sumang, Vex Ivan C._
+### Prepared By:
+### _Abril, Danielle Ziac R._
+### _Evangelista, Aeron M._
+### _Sumang, Vex Ivan C._
 ---
 
 
