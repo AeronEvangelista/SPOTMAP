@@ -1,9 +1,9 @@
 # :school:SPOTMAP:world_map:
 
 ### Prepared By:
-### _Abril, Danielle Ziac R._
+### _[Abril, Danielle Ziac R.](https://www.facebook.com/shaqables)_
 ### _[Evangelista, Aeron M.](https://www.facebook.com/profile.php?id=100009728834160)_
-### _Sumang, Vex Ivan C._
+### _[Sumang, Vex Ivan C.](https://www.facebook.com/vex.sumang)_
 ---
 
 
