@@ -27,27 +27,27 @@ Breaking Down of Codes
 - Use variables dependent on the width and height of the user’s
 desktop using the formula: w * x/w, h* y/h (Automatic Coordinates)
 - button.getGlobalBounds
-[Animation (skies and clouds)]
+  [Animation (skies and clouds)]
 - Create a boolean loop where images move horizontally
 - When position == max position, set bool to false
 - When position == min position, set bool to true
 - The bool expression serves as the left & right direction of the movement
-[Calling functions (buttons and windows)]
+  [Calling functions (buttons and windows)]
 - Every void renders a window and has a game loop
 - When another window is called, the previous window is closed
-[Page loops (floorplan pages)]
+  [Page loops (floorplan pages)]
 - Designated certain image(set string) for each value
 - When right button is pressed page ++;
 - When left button is pressed page–;
 - When page < minvalue, page = maxvalue;
 - When page > maxvalue, page = minvalue;
-[Debugging (Console & Terminal Displays)]
+  [Debugging (Console & Terminal Displays)]
 - Left button was pressed; get mouse position (coordinates)
 - If (!image.loadfromfile(“”)) cout << “image cannot be found”<< endl;
 - Cout and endl for readable debugs
-Platforms Used	IDE:
+  Platforms Used	IDE:
 -	Visual Studio, and Visual Code Library:
 -	(SFML) Simple and Fast Multimedia Library Design:
 -	Pixilart, Canva
-Acknowledgement: A special appreciation to Ma’am Lanie Palad, our course facilitator and Engr. Oliver S. Dimalig, the Head of PFMO Alangilan, for providing access to essential information - the floor plans.
+  Acknowledgement: A special appreciation to Ma’am Lanie Palad, our course facilitator and Engr. Oliver S. Dimalig, the Head of PFMO Alangilan, for providing access to essential information - the floor plans.
 
