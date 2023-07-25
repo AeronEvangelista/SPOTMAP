@@ -2,7 +2,7 @@
 
 ### Prepared By:
 ### _Abril, Danielle Ziac R._
-### _[Evangelista, Aeron M. ]([https://www.facebook.com/your_username](https://www.facebook.com/profile.php?id=100009728834160))._
+### _[Evangelista, Aeron M.]([https://www.facebook.com/your_username](https://www.facebook.com/profile.php?id=100009728834160))_
 ### _Sumang, Vex Ivan C._
 ---
 
